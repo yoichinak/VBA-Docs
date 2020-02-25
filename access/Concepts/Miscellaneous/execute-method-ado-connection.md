@@ -16,10 +16,7 @@ Executes the specified query, SQL statement, stored procedure, or provider-speci
 
 ## Syntax
 
-For a non-row-returning command string:
-
-For a row-returning command string:
-
+_connection_.Execute _CommandText_, _RecordsAffected_, _Options_
 
 ## Return value
 
