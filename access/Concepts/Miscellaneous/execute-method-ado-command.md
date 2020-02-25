@@ -19,9 +19,7 @@ Executes the query, SQL statement, or stored procedure specified in the [Command
 
 ## Syntax
 
-For a **Recordset** -returning **Command**:
-
-For a non-recordset-returning **Command**:
+_command_.Execute _RecordsAffected_, _Parameters_, _Options_
 
 
 ## Return value
